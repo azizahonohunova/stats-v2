@@ -2,7 +2,7 @@ package stats
 
 import (
 
-	"github.com/azizahonohunova/bank/pkg/types"
+	"github.com/azizahonohunova/bank/v2/pkg/types"
 
 )
 
